@@ -1,0 +1,28 @@
+# marks=int(("5 marks ;")
+# friend.sort()
+# friend.reverse()
+# friend.append(51)
+# friend.insert(3,4)
+# friend.pop(4)
+# friend.remove(1) 
+# n=an.count(1)
+# m=an.index(7)
+# print(marks)
+# marks=[int(("enter your marks:")]
+# print(type(marks))
+# marks=[]
+# f1=int(input("enter mark :"))
+# marks.append(f1)
+# f2=int(input("enter mark :"))
+# marks.append(f2)
+# f3=int(input("enter mark :"))
+# marks.append(f3)
+# f4=int(input("enter mark :"))
+# marks.append(f4)
+# f5=int(input("enter mark :"))
+# marks.append(f5)
+# marks.sort()
+
+# print(marks)
+a =(12,3,4,5,"mohit")
+a[3]=0
